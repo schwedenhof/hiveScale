@@ -9,6 +9,7 @@ beehive scale with wireless data transmission over GPSR modem and ultra low powe
   * optional 2nd channel for 2 scales at one controller
 * Battery driven, no mains power supply required, 6V-12V input voltage
 * Low Power Design, allows simple, low maintenance and cost-efficient power supply
+* Operation time of 1 year with a beverage can sized battery
 * Battery voltage monitoring
 * Optional temperature sensor interface for DS18B20 sensors
 * No WIFI required, collected data is transmitted via GPRS modem
