@@ -14,3 +14,9 @@ beehive scale with wireless data transmission over GPSR modem and ultra low powe
 * No WIFI required, collected data is transmitted via GPRS modem
 * uses HTTP POST method to upload data to any kind of web based server
 * Cost-efficient, total cost including electronics and mechanics starting at €90 
+
+## Content
+* STM32CubeMX project for MCU configuration
+* STM32CubeIDE project
+* DOCUMENTATION subfolder with a hiveScale document and PDF manuals of all used hardware components
+* EAGLE project with the schemtics
